@@ -15,8 +15,9 @@ namespace MasterServer
 
             NetPeerConfiguration config = new NetPeerConfiguration("master");
             config.SetMessageTypeEnabled(NetIncomingMessageType.UnconnectedData, true);
+            config.EnableMessageType(NetIncomingMessageType.DiscoveryRequest);
             config.Port = 15002;
-
+            
             NetPeer peer = new NetPeer(config);
             peer.Start();
 
@@ -29,6 +30,15 @@ namespace MasterServer
                 {
                     switch (msg.MessageType)
                     {
+                        case NetIncomingMessageType.DiscoveryRequest:
+                            Console.WriteLine("Discover message from: " + msg.SenderEndPoint);
+                            // Create a response and write some example data to it
+                            NetOutgoingMessage response = peer.CreateMessage();
+                            response.Write("master");
+
+                            // Send the response to the sender of the request
+                            peer.SendDiscoveryResponse(response, msg.SenderEndPoint);
+                            break;
                         case NetIncomingMessageType.UnconnectedData:
                             //
                             // We've received a message from a client or a host

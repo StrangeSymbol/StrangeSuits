@@ -2,30 +2,30 @@
 <XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
   <Asset Type="Pipeline:BuildItemCollection">
     <Item>
-      <Source>backBtnCover.png</Source>
-      <Name>backBtnCover</Name>
+      <Source>Buttons\backBtnCover.png</Source>
+      <Name>Buttons\backBtnCover</Name>
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Ambrose Emmett\Documents\Visual Studio 2013\Projects\my work\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Debug\Content\backBtnCover.xnb</Output>
+      <Output>C:\Users\Ambrose Emmett\Documents\GitHub\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Debug\Content\Buttons\backBtnCover.xnb</Output>
       <Time>2019-06-12T14:32:18.966142-04:00</Time>
     </Item>
     <Item>
-      <Source>BlendTextDeveStrange.png</Source>
-      <Name>BlendTextDeveStrange</Name>
+      <Source>Menu\BlendTextDeveStrange.png</Source>
+      <Name>Menu\BlendTextDeveStrange</Name>
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Ambrose Emmett\Documents\Visual Studio 2013\Projects\my work\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Debug\Content\BlendTextDeveStrange.xnb</Output>
+      <Output>C:\Users\Ambrose Emmett\Documents\GitHub\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Debug\Content\Menu\BlendTextDeveStrange.xnb</Output>
       <Time>2019-06-12T14:32:19.0286381-04:00</Time>
     </Item>
     <Item>
-      <Source>ButtonCover.png</Source>
-      <Name>ButtonCover</Name>
+      <Source>Buttons\ButtonCover.png</Source>
+      <Name>Buttons\ButtonCover</Name>
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Ambrose Emmett\Documents\Visual Studio 2013\Projects\my work\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Debug\Content\ButtonCover.xnb</Output>
+      <Output>C:\Users\Ambrose Emmett\Documents\GitHub\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Debug\Content\Buttons\ButtonCover.xnb</Output>
       <Time>2019-06-12T14:32:19.0442619-04:00</Time>
     </Item>
     <Item>
@@ -34,7 +34,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Ambrose Emmett\Documents\Visual Studio 2013\Projects\my work\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Debug\Content\DeckPile.xnb</Output>
+      <Output>C:\Users\Ambrose Emmett\Documents\GitHub\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Debug\Content\DeckPile.xnb</Output>
       <Time>2019-06-12T14:32:19.0598897-04:00</Time>
     </Item>
     <Item>
@@ -43,7 +43,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Ambrose Emmett\Documents\Visual Studio 2013\Projects\my work\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Debug\Content\DiscardPile.xnb</Output>
+      <Output>C:\Users\Ambrose Emmett\Documents\GitHub\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Debug\Content\DiscardPile.xnb</Output>
       <Time>2019-06-12T14:32:19.0755135-04:00</Time>
     </Item>
     <Item>
@@ -52,160 +52,160 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Ambrose Emmett\Documents\Visual Studio 2013\Projects\my work\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Debug\Content\DrawOutline.xnb</Output>
+      <Output>C:\Users\Ambrose Emmett\Documents\GitHub\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Debug\Content\DrawOutline.xnb</Output>
       <Time>2019-06-12T14:32:19.0755135-04:00</Time>
     </Item>
     <Item>
-      <Source>mainmenu.jpg</Source>
-      <Name>mainmenu</Name>
+      <Source>Menu\mainmenu.jpg</Source>
+      <Name>Menu\mainmenu</Name>
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Ambrose Emmett\Documents\Visual Studio 2013\Projects\my work\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Debug\Content\mainmenu.xnb</Output>
+      <Output>C:\Users\Ambrose Emmett\Documents\GitHub\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Debug\Content\Menu\mainmenu.xnb</Output>
       <Time>2019-06-12T14:32:19.1380178-04:00</Time>
     </Item>
     <Item>
-      <Source>PaperButton.png</Source>
-      <Name>PaperButton</Name>
+      <Source>Buttons\PaperButton.png</Source>
+      <Name>Buttons\PaperButton</Name>
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Ambrose Emmett\Documents\Visual Studio 2013\Projects\my work\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Debug\Content\PaperButton.xnb</Output>
+      <Output>C:\Users\Ambrose Emmett\Documents\GitHub\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Debug\Content\Buttons\PaperButton.xnb</Output>
       <Time>2019-06-12T14:32:19.1536395-04:00</Time>
     </Item>
     <Item>
-      <Source>RockButton.png</Source>
-      <Name>RockButton</Name>
+      <Source>Buttons\RockButton.png</Source>
+      <Name>Buttons\RockButton</Name>
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Ambrose Emmett\Documents\Visual Studio 2013\Projects\my work\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Debug\Content\RockButton.xnb</Output>
+      <Output>C:\Users\Ambrose Emmett\Documents\GitHub\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Debug\Content\Buttons\RockButton.xnb</Output>
       <Time>2019-06-12T14:32:19.1692643-04:00</Time>
     </Item>
     <Item>
-      <Source>RocPapSciButton.png</Source>
-      <Name>RocPapSciButton</Name>
+      <Source>Buttons\RocPapSciButton.png</Source>
+      <Name>Buttons\RocPapSciButton</Name>
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Ambrose Emmett\Documents\Visual Studio 2013\Projects\my work\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Debug\Content\RocPapSciButton.xnb</Output>
+      <Output>C:\Users\Ambrose Emmett\Documents\GitHub\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Debug\Content\Buttons\RocPapSciButton.xnb</Output>
       <Time>2019-06-12T14:32:19.1848891-04:00</Time>
     </Item>
     <Item>
-      <Source>Rules.jpg</Source>
-      <Name>Rules</Name>
+      <Source>Menu\Rules.jpg</Source>
+      <Name>Menu\Rules</Name>
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Ambrose Emmett\Documents\Visual Studio 2013\Projects\my work\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Debug\Content\Rules.xnb</Output>
+      <Output>C:\Users\Ambrose Emmett\Documents\GitHub\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Debug\Content\Menu\Rules.xnb</Output>
       <Time>2019-06-12T14:32:19.1848891-04:00</Time>
     </Item>
     <Item>
-      <Source>ScissorsButton.png</Source>
-      <Name>ScissorsButton</Name>
+      <Source>Buttons\ScissorsButton.png</Source>
+      <Name>Buttons\ScissorsButton</Name>
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Ambrose Emmett\Documents\Visual Studio 2013\Projects\my work\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Debug\Content\ScissorsButton.xnb</Output>
+      <Output>C:\Users\Ambrose Emmett\Documents\GitHub\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Debug\Content\Buttons\ScissorsButton.xnb</Output>
       <Time>2019-06-12T14:32:19.2005129-04:00</Time>
     </Item>
     <Item>
-      <Source>Suit2PlayerButton.png</Source>
-      <Name>Suit2PlayerButton</Name>
+      <Source>Buttons\Suit2PlayerButton.png</Source>
+      <Name>Buttons\Suit2PlayerButton</Name>
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Ambrose Emmett\Documents\Visual Studio 2013\Projects\my work\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Debug\Content\Suit2PlayerButton.xnb</Output>
+      <Output>C:\Users\Ambrose Emmett\Documents\GitHub\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Debug\Content\Buttons\Suit2PlayerButton.xnb</Output>
       <Time>2019-06-12T14:32:19.2630151-04:00</Time>
     </Item>
     <Item>
-      <Source>SuitBackButton.png</Source>
-      <Name>SuitBackButton</Name>
+      <Source>Buttons\SuitBackButton.png</Source>
+      <Name>Buttons\SuitBackButton</Name>
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Ambrose Emmett\Documents\Visual Studio 2013\Projects\my work\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Debug\Content\SuitBackButton.xnb</Output>
+      <Output>C:\Users\Ambrose Emmett\Documents\GitHub\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Debug\Content\Buttons\SuitBackButton.xnb</Output>
       <Time>2019-06-12T14:32:19.3098915-04:00</Time>
     </Item>
     <Item>
-      <Source>SuitEasyButton.png</Source>
-      <Name>SuitEasyButton</Name>
+      <Source>Buttons\SuitEasyButton.png</Source>
+      <Name>Buttons\SuitEasyButton</Name>
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Ambrose Emmett\Documents\Visual Studio 2013\Projects\my work\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Debug\Content\SuitEasyButton.xnb</Output>
+      <Output>C:\Users\Ambrose Emmett\Documents\GitHub\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Debug\Content\Buttons\SuitEasyButton.xnb</Output>
       <Time>2019-06-12T14:32:19.3411401-04:00</Time>
     </Item>
     <Item>
-      <Source>SuitEndTurnButton.png</Source>
-      <Name>SuitEndTurnButton</Name>
+      <Source>Buttons\SuitEndTurnButton.png</Source>
+      <Name>Buttons\SuitEndTurnButton</Name>
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Ambrose Emmett\Documents\Visual Studio 2013\Projects\my work\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Debug\Content\SuitEndTurnButton.xnb</Output>
+      <Output>C:\Users\Ambrose Emmett\Documents\GitHub\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Debug\Content\Buttons\SuitEndTurnButton.xnb</Output>
       <Time>2019-06-12T14:32:19.3567669-04:00</Time>
     </Item>
     <Item>
-      <Source>SuitHardButton.png</Source>
-      <Name>SuitHardButton</Name>
+      <Source>Buttons\SuitHardButton.png</Source>
+      <Name>Buttons\SuitHardButton</Name>
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Ambrose Emmett\Documents\Visual Studio 2013\Projects\my work\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Debug\Content\SuitHardButton.xnb</Output>
+      <Output>C:\Users\Ambrose Emmett\Documents\GitHub\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Debug\Content\Buttons\SuitHardButton.xnb</Output>
       <Time>2019-06-12T14:32:19.3723897-04:00</Time>
     </Item>
     <Item>
-      <Source>SuitMediumButton.png</Source>
-      <Name>SuitMediumButton</Name>
+      <Source>Buttons\SuitMediumButton.png</Source>
+      <Name>Buttons\SuitMediumButton</Name>
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Ambrose Emmett\Documents\Visual Studio 2013\Projects\my work\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Debug\Content\SuitMediumButton.xnb</Output>
+      <Output>C:\Users\Ambrose Emmett\Documents\GitHub\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Debug\Content\Buttons\SuitMediumButton.xnb</Output>
       <Time>2019-06-12T14:32:19.3880155-04:00</Time>
     </Item>
     <Item>
-      <Source>SuitPlayButton.png</Source>
-      <Name>SuitPlayButton</Name>
+      <Source>Buttons\SuitPlayButton.png</Source>
+      <Name>Buttons\SuitPlayButton</Name>
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Ambrose Emmett\Documents\Visual Studio 2013\Projects\my work\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Debug\Content\SuitPlayButton.xnb</Output>
+      <Output>C:\Users\Ambrose Emmett\Documents\GitHub\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Debug\Content\Buttons\SuitPlayButton.xnb</Output>
       <Time>2019-06-12T14:32:19.3880155-04:00</Time>
     </Item>
     <Item>
-      <Source>SuitRulesButton.png</Source>
-      <Name>SuitRulesButton</Name>
+      <Source>Buttons\SuitRulesButton.png</Source>
+      <Name>Buttons\SuitRulesButton</Name>
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Ambrose Emmett\Documents\Visual Studio 2013\Projects\my work\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Debug\Content\SuitRulesButton.xnb</Output>
+      <Output>C:\Users\Ambrose Emmett\Documents\GitHub\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Debug\Content\Buttons\SuitRulesButton.xnb</Output>
       <Time>2019-06-12T14:32:19.4036403-04:00</Time>
     </Item>
     <Item>
-      <Source>SuitVeryEasyButton.png</Source>
-      <Name>SuitVeryEasyButton</Name>
+      <Source>Buttons\SuitVeryEasyButton.png</Source>
+      <Name>Buttons\SuitVeryEasyButton</Name>
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Ambrose Emmett\Documents\Visual Studio 2013\Projects\my work\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Debug\Content\SuitVeryEasyButton.xnb</Output>
+      <Output>C:\Users\Ambrose Emmett\Documents\GitHub\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Debug\Content\Buttons\SuitVeryEasyButton.xnb</Output>
       <Time>2019-06-12T14:32:19.4192651-04:00</Time>
     </Item>
     <Item>
-      <Source>SuitVeryHardButton.png</Source>
-      <Name>SuitVeryHardButton</Name>
+      <Source>Buttons\SuitVeryHardButton.png</Source>
+      <Name>Buttons\SuitVeryHardButton</Name>
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Ambrose Emmett\Documents\Visual Studio 2013\Projects\my work\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Debug\Content\SuitVeryHardButton.xnb</Output>
+      <Output>C:\Users\Ambrose Emmett\Documents\GitHub\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Debug\Content\Buttons\SuitVeryHardButton.xnb</Output>
       <Time>2019-06-12T14:32:19.4348919-04:00</Time>
     </Item>
     <Item>
-      <Source>Title.png</Source>
-      <Name>Title</Name>
+      <Source>Menu\Title.png</Source>
+      <Name>Menu\Title</Name>
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Ambrose Emmett\Documents\Visual Studio 2013\Projects\my work\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Debug\Content\Title.xnb</Output>
+      <Output>C:\Users\Ambrose Emmett\Documents\GitHub\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Debug\Content\Menu\Title.xnb</Output>
       <Time>2019-06-12T14:32:19.4661651-04:00</Time>
     </Item>
     <Item>
@@ -214,7 +214,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Ambrose Emmett\Documents\Visual Studio 2013\Projects\my work\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Debug\Content\Panel\Club.xnb</Output>
+      <Output>C:\Users\Ambrose Emmett\Documents\GitHub\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Debug\Content\Panel\Club.xnb</Output>
       <Time>2019-06-12T14:33:04.0242266-04:00</Time>
     </Item>
     <Item>
@@ -223,7 +223,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Ambrose Emmett\Documents\Visual Studio 2013\Projects\my work\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Debug\Content\Panel\Diamond.xnb</Output>
+      <Output>C:\Users\Ambrose Emmett\Documents\GitHub\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Debug\Content\Panel\Diamond.xnb</Output>
       <Time>2019-06-12T14:33:04.0398514-04:00</Time>
     </Item>
     <Item>
@@ -232,7 +232,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Ambrose Emmett\Documents\Visual Studio 2013\Projects\my work\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Debug\Content\Panel\Heart.xnb</Output>
+      <Output>C:\Users\Ambrose Emmett\Documents\GitHub\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Debug\Content\Panel\Heart.xnb</Output>
       <Time>2019-06-12T14:33:04.0554742-04:00</Time>
     </Item>
     <Item>
@@ -241,7 +241,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Ambrose Emmett\Documents\Visual Studio 2013\Projects\my work\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Debug\Content\Panel\OkButton.xnb</Output>
+      <Output>C:\Users\Ambrose Emmett\Documents\GitHub\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Debug\Content\Panel\OkButton.xnb</Output>
       <Time>2019-06-12T14:33:04.0554742-04:00</Time>
     </Item>
     <Item>
@@ -250,7 +250,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Ambrose Emmett\Documents\Visual Studio 2013\Projects\my work\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Debug\Content\Panel\OkButtonCover.xnb</Output>
+      <Output>C:\Users\Ambrose Emmett\Documents\GitHub\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Debug\Content\Panel\OkButtonCover.xnb</Output>
       <Time>2019-06-12T14:33:04.071101-04:00</Time>
     </Item>
     <Item>
@@ -259,7 +259,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Ambrose Emmett\Documents\Visual Studio 2013\Projects\my work\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Debug\Content\Panel\Panel.xnb</Output>
+      <Output>C:\Users\Ambrose Emmett\Documents\GitHub\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Debug\Content\Panel\Panel.xnb</Output>
       <Time>2019-06-12T14:33:04.0867279-04:00</Time>
     </Item>
     <Item>
@@ -268,7 +268,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Ambrose Emmett\Documents\Visual Studio 2013\Projects\my work\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Debug\Content\Panel\Spade.xnb</Output>
+      <Output>C:\Users\Ambrose Emmett\Documents\GitHub\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Debug\Content\Panel\Spade.xnb</Output>
       <Time>2019-06-12T14:33:04.149226-04:00</Time>
     </Item>
     <Item>
@@ -277,7 +277,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Ambrose Emmett\Documents\Visual Studio 2013\Projects\my work\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Debug\Content\Hand\ArrowButtonCoverL.xnb</Output>
+      <Output>C:\Users\Ambrose Emmett\Documents\GitHub\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Debug\Content\Hand\ArrowButtonCoverL.xnb</Output>
       <Time>2019-06-12T14:34:12.9339199-04:00</Time>
     </Item>
     <Item>
@@ -286,7 +286,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Ambrose Emmett\Documents\Visual Studio 2013\Projects\my work\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Debug\Content\Hand\ArrowButtonCoverR.xnb</Output>
+      <Output>C:\Users\Ambrose Emmett\Documents\GitHub\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Debug\Content\Hand\ArrowButtonCoverR.xnb</Output>
       <Time>2019-06-12T14:34:12.9651017-04:00</Time>
     </Item>
     <Item>
@@ -295,7 +295,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Ambrose Emmett\Documents\Visual Studio 2013\Projects\my work\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Debug\Content\Hand\ArrowButtonL.xnb</Output>
+      <Output>C:\Users\Ambrose Emmett\Documents\GitHub\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Debug\Content\Hand\ArrowButtonL.xnb</Output>
       <Time>2019-06-12T14:34:12.996377-04:00</Time>
     </Item>
     <Item>
@@ -304,7 +304,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Ambrose Emmett\Documents\Visual Studio 2013\Projects\my work\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Debug\Content\Hand\ArrowButtonR.xnb</Output>
+      <Output>C:\Users\Ambrose Emmett\Documents\GitHub\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Debug\Content\Hand\ArrowButtonR.xnb</Output>
       <Time>2019-06-12T14:34:13.0119782-04:00</Time>
     </Item>
     <Item>
@@ -313,7 +313,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Ambrose Emmett\Documents\Visual Studio 2013\Projects\my work\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Debug\Content\DeckOfCards\AceClub.xnb</Output>
+      <Output>C:\Users\Ambrose Emmett\Documents\GitHub\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Debug\Content\DeckOfCards\AceClub.xnb</Output>
       <Time>2019-06-12T14:36:03.0702875-04:00</Time>
     </Item>
     <Item>
@@ -322,7 +322,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Ambrose Emmett\Documents\Visual Studio 2013\Projects\my work\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Debug\Content\DeckOfCards\AceDiamond.xnb</Output>
+      <Output>C:\Users\Ambrose Emmett\Documents\GitHub\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Debug\Content\DeckOfCards\AceDiamond.xnb</Output>
       <Time>2019-06-12T14:36:03.0858404-04:00</Time>
     </Item>
     <Item>
@@ -331,7 +331,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Ambrose Emmett\Documents\Visual Studio 2013\Projects\my work\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Debug\Content\DeckOfCards\AceHearts.xnb</Output>
+      <Output>C:\Users\Ambrose Emmett\Documents\GitHub\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Debug\Content\DeckOfCards\AceHearts.xnb</Output>
       <Time>2019-06-12T14:36:03.1170859-04:00</Time>
     </Item>
     <Item>
@@ -340,7 +340,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Ambrose Emmett\Documents\Visual Studio 2013\Projects\my work\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Debug\Content\DeckOfCards\AceSpades.xnb</Output>
+      <Output>C:\Users\Ambrose Emmett\Documents\GitHub\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Debug\Content\DeckOfCards\AceSpades.xnb</Output>
       <Time>2019-06-12T14:36:03.1170859-04:00</Time>
     </Item>
     <Item>
@@ -349,7 +349,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Ambrose Emmett\Documents\Visual Studio 2013\Projects\my work\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Debug\Content\DeckOfCards\CardBack.xnb</Output>
+      <Output>C:\Users\Ambrose Emmett\Documents\GitHub\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Debug\Content\DeckOfCards\CardBack.xnb</Output>
       <Time>2019-06-12T14:36:03.1327128-04:00</Time>
     </Item>
     <Item>
@@ -358,7 +358,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Ambrose Emmett\Documents\Visual Studio 2013\Projects\my work\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Debug\Content\DeckOfCards\DeuceClub.xnb</Output>
+      <Output>C:\Users\Ambrose Emmett\Documents\GitHub\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Debug\Content\DeckOfCards\DeuceClub.xnb</Output>
       <Time>2019-06-12T14:36:03.1639634-04:00</Time>
     </Item>
     <Item>
@@ -367,7 +367,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Ambrose Emmett\Documents\Visual Studio 2013\Projects\my work\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Debug\Content\DeckOfCards\DeuceDiamond.xnb</Output>
+      <Output>C:\Users\Ambrose Emmett\Documents\GitHub\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Debug\Content\DeckOfCards\DeuceDiamond.xnb</Output>
       <Time>2019-06-12T14:36:03.1639634-04:00</Time>
     </Item>
     <Item>
@@ -376,7 +376,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Ambrose Emmett\Documents\Visual Studio 2013\Projects\my work\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Debug\Content\DeckOfCards\DeuceHearts.xnb</Output>
+      <Output>C:\Users\Ambrose Emmett\Documents\GitHub\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Debug\Content\DeckOfCards\DeuceHearts.xnb</Output>
       <Time>2019-06-12T14:36:03.1795882-04:00</Time>
     </Item>
     <Item>
@@ -385,7 +385,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Ambrose Emmett\Documents\Visual Studio 2013\Projects\my work\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Debug\Content\DeckOfCards\DeuceSpades.xnb</Output>
+      <Output>C:\Users\Ambrose Emmett\Documents\GitHub\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Debug\Content\DeckOfCards\DeuceSpades.xnb</Output>
       <Time>2019-06-12T14:36:03.1952129-04:00</Time>
     </Item>
     <Item>
@@ -394,7 +394,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Ambrose Emmett\Documents\Visual Studio 2013\Projects\my work\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Debug\Content\DeckOfCards\EightClub.xnb</Output>
+      <Output>C:\Users\Ambrose Emmett\Documents\GitHub\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Debug\Content\DeckOfCards\EightClub.xnb</Output>
       <Time>2019-06-12T14:36:03.2108377-04:00</Time>
     </Item>
     <Item>
@@ -403,7 +403,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Ambrose Emmett\Documents\Visual Studio 2013\Projects\my work\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Debug\Content\DeckOfCards\EightDiamond.xnb</Output>
+      <Output>C:\Users\Ambrose Emmett\Documents\GitHub\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Debug\Content\DeckOfCards\EightDiamond.xnb</Output>
       <Time>2019-06-12T14:36:03.2420873-04:00</Time>
     </Item>
     <Item>
@@ -412,7 +412,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Ambrose Emmett\Documents\Visual Studio 2013\Projects\my work\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Debug\Content\DeckOfCards\EightHearts.xnb</Output>
+      <Output>C:\Users\Ambrose Emmett\Documents\GitHub\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Debug\Content\DeckOfCards\EightHearts.xnb</Output>
       <Time>2019-06-12T14:36:03.2577121-04:00</Time>
     </Item>
     <Item>
@@ -421,7 +421,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Ambrose Emmett\Documents\Visual Studio 2013\Projects\my work\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Debug\Content\DeckOfCards\EightSpades.xnb</Output>
+      <Output>C:\Users\Ambrose Emmett\Documents\GitHub\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Debug\Content\DeckOfCards\EightSpades.xnb</Output>
       <Time>2019-06-12T14:36:03.2733379-04:00</Time>
     </Item>
     <Item>
@@ -430,7 +430,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Ambrose Emmett\Documents\Visual Studio 2013\Projects\my work\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Debug\Content\DeckOfCards\FiveClub.xnb</Output>
+      <Output>C:\Users\Ambrose Emmett\Documents\GitHub\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Debug\Content\DeckOfCards\FiveClub.xnb</Output>
       <Time>2019-06-12T14:36:03.2733379-04:00</Time>
     </Item>
     <Item>
@@ -439,7 +439,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Ambrose Emmett\Documents\Visual Studio 2013\Projects\my work\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Debug\Content\DeckOfCards\FiveDiamond.xnb</Output>
+      <Output>C:\Users\Ambrose Emmett\Documents\GitHub\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Debug\Content\DeckOfCards\FiveDiamond.xnb</Output>
       <Time>2019-06-12T14:36:03.2889617-04:00</Time>
     </Item>
     <Item>
@@ -448,7 +448,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Ambrose Emmett\Documents\Visual Studio 2013\Projects\my work\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Debug\Content\DeckOfCards\FiveHearts.xnb</Output>
+      <Output>C:\Users\Ambrose Emmett\Documents\GitHub\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Debug\Content\DeckOfCards\FiveHearts.xnb</Output>
       <Time>2019-06-12T14:36:03.3045885-04:00</Time>
     </Item>
     <Item>
@@ -457,7 +457,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Ambrose Emmett\Documents\Visual Studio 2013\Projects\my work\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Debug\Content\DeckOfCards\FiveSpades.xnb</Output>
+      <Output>C:\Users\Ambrose Emmett\Documents\GitHub\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Debug\Content\DeckOfCards\FiveSpades.xnb</Output>
       <Time>2019-06-12T14:36:03.3202133-04:00</Time>
     </Item>
     <Item>
@@ -466,7 +466,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Ambrose Emmett\Documents\Visual Studio 2013\Projects\my work\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Debug\Content\DeckOfCards\FourClub.xnb</Output>
+      <Output>C:\Users\Ambrose Emmett\Documents\GitHub\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Debug\Content\DeckOfCards\FourClub.xnb</Output>
       <Time>2019-06-12T14:36:03.3358392-04:00</Time>
     </Item>
     <Item>
@@ -475,7 +475,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Ambrose Emmett\Documents\Visual Studio 2013\Projects\my work\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Debug\Content\DeckOfCards\FourDiamond.xnb</Output>
+      <Output>C:\Users\Ambrose Emmett\Documents\GitHub\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Debug\Content\DeckOfCards\FourDiamond.xnb</Output>
       <Time>2019-06-12T14:36:03.3514619-04:00</Time>
     </Item>
     <Item>
@@ -484,7 +484,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Ambrose Emmett\Documents\Visual Studio 2013\Projects\my work\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Debug\Content\DeckOfCards\FourHearts.xnb</Output>
+      <Output>C:\Users\Ambrose Emmett\Documents\GitHub\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Debug\Content\DeckOfCards\FourHearts.xnb</Output>
       <Time>2019-06-12T14:36:03.3514619-04:00</Time>
     </Item>
     <Item>
@@ -493,7 +493,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Ambrose Emmett\Documents\Visual Studio 2013\Projects\my work\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Debug\Content\DeckOfCards\FourSpades.xnb</Output>
+      <Output>C:\Users\Ambrose Emmett\Documents\GitHub\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Debug\Content\DeckOfCards\FourSpades.xnb</Output>
       <Time>2019-06-12T14:36:03.3670887-04:00</Time>
     </Item>
     <Item>
@@ -502,7 +502,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Ambrose Emmett\Documents\Visual Studio 2013\Projects\my work\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Debug\Content\DeckOfCards\JackClub.xnb</Output>
+      <Output>C:\Users\Ambrose Emmett\Documents\GitHub\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Debug\Content\DeckOfCards\JackClub.xnb</Output>
       <Time>2019-06-12T14:36:03.3827135-04:00</Time>
     </Item>
     <Item>
@@ -511,7 +511,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Ambrose Emmett\Documents\Visual Studio 2013\Projects\my work\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Debug\Content\DeckOfCards\JackDiamond.xnb</Output>
+      <Output>C:\Users\Ambrose Emmett\Documents\GitHub\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Debug\Content\DeckOfCards\JackDiamond.xnb</Output>
       <Time>2019-06-12T14:36:03.3983383-04:00</Time>
     </Item>
     <Item>
@@ -520,7 +520,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Ambrose Emmett\Documents\Visual Studio 2013\Projects\my work\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Debug\Content\DeckOfCards\JackHearts.xnb</Output>
+      <Output>C:\Users\Ambrose Emmett\Documents\GitHub\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Debug\Content\DeckOfCards\JackHearts.xnb</Output>
       <Time>2019-06-12T14:36:03.4139631-04:00</Time>
     </Item>
     <Item>
@@ -529,7 +529,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Ambrose Emmett\Documents\Visual Studio 2013\Projects\my work\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Debug\Content\DeckOfCards\JackSpades.xnb</Output>
+      <Output>C:\Users\Ambrose Emmett\Documents\GitHub\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Debug\Content\DeckOfCards\JackSpades.xnb</Output>
       <Time>2019-06-12T14:36:03.4139631-04:00</Time>
     </Item>
     <Item>
@@ -538,7 +538,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Ambrose Emmett\Documents\Visual Studio 2013\Projects\my work\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Debug\Content\DeckOfCards\KingClub.xnb</Output>
+      <Output>C:\Users\Ambrose Emmett\Documents\GitHub\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Debug\Content\DeckOfCards\KingClub.xnb</Output>
       <Time>2019-06-12T14:36:03.4295889-04:00</Time>
     </Item>
     <Item>
@@ -547,7 +547,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Ambrose Emmett\Documents\Visual Studio 2013\Projects\my work\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Debug\Content\DeckOfCards\KingDiamond.xnb</Output>
+      <Output>C:\Users\Ambrose Emmett\Documents\GitHub\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Debug\Content\DeckOfCards\KingDiamond.xnb</Output>
       <Time>2019-06-12T14:36:03.4452147-04:00</Time>
     </Item>
     <Item>
@@ -556,7 +556,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Ambrose Emmett\Documents\Visual Studio 2013\Projects\my work\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Debug\Content\DeckOfCards\KingHearts.xnb</Output>
+      <Output>C:\Users\Ambrose Emmett\Documents\GitHub\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Debug\Content\DeckOfCards\KingHearts.xnb</Output>
       <Time>2019-06-12T14:36:03.4608385-04:00</Time>
     </Item>
     <Item>
@@ -565,7 +565,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Ambrose Emmett\Documents\Visual Studio 2013\Projects\my work\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Debug\Content\DeckOfCards\KingSpades.xnb</Output>
+      <Output>C:\Users\Ambrose Emmett\Documents\GitHub\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Debug\Content\DeckOfCards\KingSpades.xnb</Output>
       <Time>2019-06-12T14:36:03.4608385-04:00</Time>
     </Item>
     <Item>
@@ -574,7 +574,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Ambrose Emmett\Documents\Visual Studio 2013\Projects\my work\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Debug\Content\DeckOfCards\NineClub.xnb</Output>
+      <Output>C:\Users\Ambrose Emmett\Documents\GitHub\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Debug\Content\DeckOfCards\NineClub.xnb</Output>
       <Time>2019-06-12T14:36:03.4764654-04:00</Time>
     </Item>
     <Item>
@@ -583,7 +583,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Ambrose Emmett\Documents\Visual Studio 2013\Projects\my work\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Debug\Content\DeckOfCards\NineDiamond.xnb</Output>
+      <Output>C:\Users\Ambrose Emmett\Documents\GitHub\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Debug\Content\DeckOfCards\NineDiamond.xnb</Output>
       <Time>2019-06-12T14:36:03.4920901-04:00</Time>
     </Item>
     <Item>
@@ -592,7 +592,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Ambrose Emmett\Documents\Visual Studio 2013\Projects\my work\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Debug\Content\DeckOfCards\NineHearts.xnb</Output>
+      <Output>C:\Users\Ambrose Emmett\Documents\GitHub\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Debug\Content\DeckOfCards\NineHearts.xnb</Output>
       <Time>2019-06-12T14:36:03.5077129-04:00</Time>
     </Item>
     <Item>
@@ -601,7 +601,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Ambrose Emmett\Documents\Visual Studio 2013\Projects\my work\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Debug\Content\DeckOfCards\NineSpades.xnb</Output>
+      <Output>C:\Users\Ambrose Emmett\Documents\GitHub\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Debug\Content\DeckOfCards\NineSpades.xnb</Output>
       <Time>2019-06-12T14:36:03.5077129-04:00</Time>
     </Item>
     <Item>
@@ -610,7 +610,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Ambrose Emmett\Documents\Visual Studio 2013\Projects\my work\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Debug\Content\DeckOfCards\QueenClub.xnb</Output>
+      <Output>C:\Users\Ambrose Emmett\Documents\GitHub\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Debug\Content\DeckOfCards\QueenClub.xnb</Output>
       <Time>2019-06-12T14:36:03.5233387-04:00</Time>
     </Item>
     <Item>
@@ -619,7 +619,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Ambrose Emmett\Documents\Visual Studio 2013\Projects\my work\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Debug\Content\DeckOfCards\QueenDiamond.xnb</Output>
+      <Output>C:\Users\Ambrose Emmett\Documents\GitHub\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Debug\Content\DeckOfCards\QueenDiamond.xnb</Output>
       <Time>2019-06-12T14:36:03.5389645-04:00</Time>
     </Item>
     <Item>
@@ -628,7 +628,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Ambrose Emmett\Documents\Visual Studio 2013\Projects\my work\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Debug\Content\DeckOfCards\QueenHearts.xnb</Output>
+      <Output>C:\Users\Ambrose Emmett\Documents\GitHub\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Debug\Content\DeckOfCards\QueenHearts.xnb</Output>
       <Time>2019-06-12T14:36:03.5545893-04:00</Time>
     </Item>
     <Item>
@@ -637,7 +637,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Ambrose Emmett\Documents\Visual Studio 2013\Projects\my work\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Debug\Content\DeckOfCards\QueenSpades.xnb</Output>
+      <Output>C:\Users\Ambrose Emmett\Documents\GitHub\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Debug\Content\DeckOfCards\QueenSpades.xnb</Output>
       <Time>2019-06-12T14:36:03.5702141-04:00</Time>
     </Item>
     <Item>
@@ -646,7 +646,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Ambrose Emmett\Documents\Visual Studio 2013\Projects\my work\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Debug\Content\DeckOfCards\SevenClub.xnb</Output>
+      <Output>C:\Users\Ambrose Emmett\Documents\GitHub\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Debug\Content\DeckOfCards\SevenClub.xnb</Output>
       <Time>2019-06-12T14:36:03.5702141-04:00</Time>
     </Item>
     <Item>
@@ -655,7 +655,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Ambrose Emmett\Documents\Visual Studio 2013\Projects\my work\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Debug\Content\DeckOfCards\SevenDiamond.xnb</Output>
+      <Output>C:\Users\Ambrose Emmett\Documents\GitHub\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Debug\Content\DeckOfCards\SevenDiamond.xnb</Output>
       <Time>2019-06-12T14:36:03.5858399-04:00</Time>
     </Item>
     <Item>
@@ -664,7 +664,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Ambrose Emmett\Documents\Visual Studio 2013\Projects\my work\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Debug\Content\DeckOfCards\SevenHearts.xnb</Output>
+      <Output>C:\Users\Ambrose Emmett\Documents\GitHub\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Debug\Content\DeckOfCards\SevenHearts.xnb</Output>
       <Time>2019-06-12T14:36:03.6014657-04:00</Time>
     </Item>
     <Item>
@@ -673,7 +673,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Ambrose Emmett\Documents\Visual Studio 2013\Projects\my work\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Debug\Content\DeckOfCards\SevenSpades.xnb</Output>
+      <Output>C:\Users\Ambrose Emmett\Documents\GitHub\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Debug\Content\DeckOfCards\SevenSpades.xnb</Output>
       <Time>2019-06-12T14:36:03.6170885-04:00</Time>
     </Item>
     <Item>
@@ -682,7 +682,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Ambrose Emmett\Documents\Visual Studio 2013\Projects\my work\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Debug\Content\DeckOfCards\SixClub.xnb</Output>
+      <Output>C:\Users\Ambrose Emmett\Documents\GitHub\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Debug\Content\DeckOfCards\SixClub.xnb</Output>
       <Time>2019-06-12T14:36:03.6327143-04:00</Time>
     </Item>
     <Item>
@@ -691,7 +691,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Ambrose Emmett\Documents\Visual Studio 2013\Projects\my work\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Debug\Content\DeckOfCards\SixDiamond.xnb</Output>
+      <Output>C:\Users\Ambrose Emmett\Documents\GitHub\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Debug\Content\DeckOfCards\SixDiamond.xnb</Output>
       <Time>2019-06-12T14:36:03.6483381-04:00</Time>
     </Item>
     <Item>
@@ -700,7 +700,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Ambrose Emmett\Documents\Visual Studio 2013\Projects\my work\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Debug\Content\DeckOfCards\SixHearts.xnb</Output>
+      <Output>C:\Users\Ambrose Emmett\Documents\GitHub\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Debug\Content\DeckOfCards\SixHearts.xnb</Output>
       <Time>2019-06-12T14:36:03.6639649-04:00</Time>
     </Item>
     <Item>
@@ -709,7 +709,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Ambrose Emmett\Documents\Visual Studio 2013\Projects\my work\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Debug\Content\DeckOfCards\SixSpades.xnb</Output>
+      <Output>C:\Users\Ambrose Emmett\Documents\GitHub\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Debug\Content\DeckOfCards\SixSpades.xnb</Output>
       <Time>2019-06-12T14:36:03.6795887-04:00</Time>
     </Item>
     <Item>
@@ -718,7 +718,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Ambrose Emmett\Documents\Visual Studio 2013\Projects\my work\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Debug\Content\DeckOfCards\TenClub.xnb</Output>
+      <Output>C:\Users\Ambrose Emmett\Documents\GitHub\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Debug\Content\DeckOfCards\TenClub.xnb</Output>
       <Time>2019-06-12T14:36:03.6952145-04:00</Time>
     </Item>
     <Item>
@@ -727,7 +727,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Ambrose Emmett\Documents\Visual Studio 2013\Projects\my work\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Debug\Content\DeckOfCards\TenDiamond.xnb</Output>
+      <Output>C:\Users\Ambrose Emmett\Documents\GitHub\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Debug\Content\DeckOfCards\TenDiamond.xnb</Output>
       <Time>2019-06-12T14:36:03.7108383-04:00</Time>
     </Item>
     <Item>
@@ -736,7 +736,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Ambrose Emmett\Documents\Visual Studio 2013\Projects\my work\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Debug\Content\DeckOfCards\TenHearts.xnb</Output>
+      <Output>C:\Users\Ambrose Emmett\Documents\GitHub\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Debug\Content\DeckOfCards\TenHearts.xnb</Output>
       <Time>2019-06-12T14:36:03.7108383-04:00</Time>
     </Item>
     <Item>
@@ -745,7 +745,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Ambrose Emmett\Documents\Visual Studio 2013\Projects\my work\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Debug\Content\DeckOfCards\TenSpades.xnb</Output>
+      <Output>C:\Users\Ambrose Emmett\Documents\GitHub\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Debug\Content\DeckOfCards\TenSpades.xnb</Output>
       <Time>2019-06-12T14:36:03.7264651-04:00</Time>
     </Item>
     <Item>
@@ -754,7 +754,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Ambrose Emmett\Documents\Visual Studio 2013\Projects\my work\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Debug\Content\DeckOfCards\ThreeClub.xnb</Output>
+      <Output>C:\Users\Ambrose Emmett\Documents\GitHub\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Debug\Content\DeckOfCards\ThreeClub.xnb</Output>
       <Time>2019-06-12T14:36:03.7420899-04:00</Time>
     </Item>
     <Item>
@@ -763,7 +763,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Ambrose Emmett\Documents\Visual Studio 2013\Projects\my work\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Debug\Content\DeckOfCards\ThreeDiamond.xnb</Output>
+      <Output>C:\Users\Ambrose Emmett\Documents\GitHub\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Debug\Content\DeckOfCards\ThreeDiamond.xnb</Output>
       <Time>2019-06-12T14:36:03.7577157-04:00</Time>
     </Item>
     <Item>
@@ -772,7 +772,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Ambrose Emmett\Documents\Visual Studio 2013\Projects\my work\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Debug\Content\DeckOfCards\ThreeHearts.xnb</Output>
+      <Output>C:\Users\Ambrose Emmett\Documents\GitHub\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Debug\Content\DeckOfCards\ThreeHearts.xnb</Output>
       <Time>2019-06-12T14:36:03.8514645-04:00</Time>
     </Item>
     <Item>
@@ -781,25 +781,88 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Ambrose Emmett\Documents\Visual Studio 2013\Projects\my work\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Debug\Content\DeckOfCards\ThreeSpades.xnb</Output>
+      <Output>C:\Users\Ambrose Emmett\Documents\GitHub\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Debug\Content\DeckOfCards\ThreeSpades.xnb</Output>
       <Time>2019-06-12T14:36:03.8827161-04:00</Time>
     </Item>
     <Item>
-      <Source>GameFont.spritefont</Source>
-      <Name>GameFont</Name>
+      <Source>Buttons\SuitSettingsButton.png</Source>
+      <Name>Buttons\SuitSettingsButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ambrose Emmett\Documents\GitHub\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Debug\Content\Buttons\SuitSettingsButton.xnb</Output>
+      <Time>2019-06-22T04:42:23.4468775-04:00</Time>
+    </Item>
+    <Item>
+      <Source>SplashScreens\SplashScreen.png</Source>
+      <Name>SplashScreens\SplashScreen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ambrose Emmett\Documents\GitHub\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Debug\Content\SplashScreens\SplashScreen.xnb</Output>
+      <Time>2019-06-22T04:58:19.6189152-04:00</Time>
+    </Item>
+    <Item>
+      <Source>SplashScreens\SplashScreenOctober.png</Source>
+      <Name>SplashScreens\SplashScreenOctober</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ambrose Emmett\Documents\GitHub\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Debug\Content\SplashScreens\SplashScreenOctober.xnb</Output>
+      <Time>2019-06-23T02:22:29.4231954-04:00</Time>
+    </Item>
+    <Item>
+      <Source>SplashScreens\SplashScreenDecember.png</Source>
+      <Name>SplashScreens\SplashScreenDecember</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ambrose Emmett\Documents\GitHub\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Debug\Content\SplashScreens\SplashScreenDecember.xnb</Output>
+      <Time>2019-06-23T02:47:04.8905178-04:00</Time>
+    </Item>
+    <Item>
+      <Source>SplashScreens\SplashScreenMarch.png</Source>
+      <Name>SplashScreens\SplashScreenMarch</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ambrose Emmett\Documents\GitHub\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Debug\Content\SplashScreens\SplashScreenMarch.xnb</Output>
+      <Time>2019-06-23T02:47:04.9217674-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Buttons\SuitLANButton.png</Source>
+      <Name>Buttons\SuitLANButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ambrose Emmett\Documents\GitHub\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Debug\Content\Buttons\SuitLANButton.xnb</Output>
+      <Time>2019-06-23T16:03:25.6858722-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Buttons\SuitOnlineButton.png</Source>
+      <Name>Buttons\SuitOnlineButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ambrose Emmett\Documents\GitHub\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Debug\Content\Buttons\SuitOnlineButton.xnb</Output>
+      <Time>2019-06-23T16:03:25.8420953-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\GameFont.spritefont</Source>
+      <Name>Fonts\GameFont</Name>
       <Importer>FontDescriptionImporter</Importer>
       <Processor>FontDescriptionProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Ambrose Emmett\Documents\Visual Studio 2013\Projects\my work\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Debug\Content\GameFont.xnb</Output>
+      <Output>C:\Users\Ambrose Emmett\Documents\GitHub\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Debug\Content\Fonts\GameFont.xnb</Output>
       <Time>2019-06-12T14:32:19.122391-04:00</Time>
     </Item>
     <Item>
-      <Source>StrangeFont.spritefont</Source>
-      <Name>StrangeFont</Name>
+      <Source>Fonts\StrangeFont.spritefont</Source>
+      <Name>Fonts\StrangeFont</Name>
       <Importer>FontDescriptionImporter</Importer>
       <Processor>FontDescriptionProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Ambrose Emmett\Documents\Visual Studio 2013\Projects\my work\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Debug\Content\StrangeFont.xnb</Output>
+      <Output>C:\Users\Ambrose Emmett\Documents\GitHub\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Debug\Content\Fonts\StrangeFont.xnb</Output>
       <Time>2019-06-12T14:32:19.2474149-04:00</Time>
     </Item>
     <Item>
@@ -808,7 +871,7 @@
       <Importer>FontDescriptionImporter</Importer>
       <Processor>FontDescriptionProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Ambrose Emmett\Documents\Visual Studio 2013\Projects\my work\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Debug\Content\Panel\PanelFont.xnb</Output>
+      <Output>C:\Users\Ambrose Emmett\Documents\GitHub\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Debug\Content\Panel\PanelFont.xnb</Output>
       <Time>2019-06-12T14:33:04.1336258-04:00</Time>
     </Item>
     <Item>
@@ -817,7 +880,7 @@
       <Importer>WavImporter</Importer>
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Ambrose Emmett\Documents\Visual Studio 2013\Projects\my work\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Debug\Content\Audio\CardSet.xnb</Output>
+      <Output>C:\Users\Ambrose Emmett\Documents\GitHub\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Debug\Content\Audio\CardSet.xnb</Output>
       <Time>2019-06-12T14:34:36.8325885-04:00</Time>
     </Item>
     <Item>
@@ -826,7 +889,7 @@
       <Importer>WavImporter</Importer>
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Ambrose Emmett\Documents\Visual Studio 2013\Projects\my work\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Debug\Content\Audio\CardShuffle.xnb</Output>
+      <Output>C:\Users\Ambrose Emmett\Documents\GitHub\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Debug\Content\Audio\CardShuffle.xnb</Output>
       <Time>2019-06-12T14:34:36.8481425-04:00</Time>
     </Item>
     <Item>
@@ -835,71 +898,8 @@
       <Importer>WavImporter</Importer>
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Ambrose Emmett\Documents\Visual Studio 2013\Projects\my work\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Debug\Content\Audio\DrawCard.xnb</Output>
+      <Output>C:\Users\Ambrose Emmett\Documents\GitHub\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Debug\Content\Audio\DrawCard.xnb</Output>
       <Time>2019-06-12T14:34:36.8950189-04:00</Time>
-    </Item>
-    <Item>
-      <Source>SuitSettingsButton.png</Source>
-      <Name>SuitSettingsButton</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-      <Options>None</Options>
-      <Output>C:\Users\Ambrose Emmett\Documents\Visual Studio 2013\Projects\my work\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Debug\Content\SuitSettingsButton.xnb</Output>
-      <Time>2019-06-22T04:42:23.4468775-04:00</Time>
-    </Item>
-    <Item>
-      <Source>SplashScreen.png</Source>
-      <Name>SplashScreen</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-      <Options>None</Options>
-      <Output>C:\Users\Ambrose Emmett\Documents\Visual Studio 2013\Projects\my work\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Debug\Content\SplashScreen.xnb</Output>
-      <Time>2019-06-22T04:58:19.6189152-04:00</Time>
-    </Item>
-    <Item>
-      <Source>SplashScreenOctober.png</Source>
-      <Name>SplashScreenOctober</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-      <Options>None</Options>
-      <Output>C:\Users\Ambrose Emmett\Documents\Visual Studio 2013\Projects\my work\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Debug\Content\SplashScreenOctober.xnb</Output>
-      <Time>2019-06-23T02:22:29.4231954-04:00</Time>
-    </Item>
-    <Item>
-      <Source>SplashScreenDecember.png</Source>
-      <Name>SplashScreenDecember</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-      <Options>None</Options>
-      <Output>C:\Users\Ambrose Emmett\Documents\Visual Studio 2013\Projects\my work\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Debug\Content\SplashScreenDecember.xnb</Output>
-      <Time>2019-06-23T02:47:04.8905178-04:00</Time>
-    </Item>
-    <Item>
-      <Source>SplashScreenMarch.png</Source>
-      <Name>SplashScreenMarch</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-      <Options>None</Options>
-      <Output>C:\Users\Ambrose Emmett\Documents\Visual Studio 2013\Projects\my work\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Debug\Content\SplashScreenMarch.xnb</Output>
-      <Time>2019-06-23T02:47:04.9217674-04:00</Time>
-    </Item>
-    <Item>
-      <Source>SuitLANButton.png</Source>
-      <Name>SuitLANButton</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-      <Options>None</Options>
-      <Output>C:\Users\Ambrose Emmett\Documents\Visual Studio 2013\Projects\my work\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Debug\Content\SuitLANButton.xnb</Output>
-      <Time>2019-06-23T16:03:25.6858722-04:00</Time>
-    </Item>
-    <Item>
-      <Source>SuitOnlineButton.png</Source>
-      <Name>SuitOnlineButton</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-      <Options>None</Options>
-      <Output>C:\Users\Ambrose Emmett\Documents\Visual Studio 2013\Projects\my work\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Debug\Content\SuitOnlineButton.xnb</Output>
-      <Time>2019-06-23T16:03:25.8420953-04:00</Time>
     </Item>
     <BuildSuccessful>true</BuildSuccessful>
     <Settings>
@@ -908,10 +908,10 @@
       <TargetProfile>Reach</TargetProfile>
       <BuildConfiguration>Debug</BuildConfiguration>
       <CompressContent>false</CompressContent>
-      <RootDirectory>C:\Users\Ambrose Emmett\Documents\Visual Studio 2013\Projects\my work\StrangeSuits\StrangeSuits\StrangeSuitsContent\</RootDirectory>
-      <LoggerRootDirectory>C:\Users\Ambrose Emmett\Documents\Visual Studio 2013\Projects\my work\StrangeSuits\StrangeSuits\StrangeSuits\</LoggerRootDirectory>
-      <IntermediateDirectory>C:\Users\Ambrose Emmett\Documents\Visual Studio 2013\Projects\my work\StrangeSuits\StrangeSuits\StrangeSuits\obj\x86\Debug\</IntermediateDirectory>
-      <OutputDirectory>C:\Users\Ambrose Emmett\Documents\Visual Studio 2013\Projects\my work\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Debug\Content\</OutputDirectory>
+      <RootDirectory>C:\Users\Ambrose Emmett\Documents\GitHub\StrangeSuits\StrangeSuits\StrangeSuitsContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Ambrose Emmett\Documents\GitHub\StrangeSuits\StrangeSuits\StrangeSuits\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Ambrose Emmett\Documents\GitHub\StrangeSuits\StrangeSuits\StrangeSuits\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Ambrose Emmett\Documents\GitHub\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Debug\Content\</OutputDirectory>
     </Settings>
     <Assemblies>
       <Assembly>

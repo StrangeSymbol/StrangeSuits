@@ -7,3 +7,12 @@ C:\Users\Ambrose Emmett\Documents\Visual Studio 2013\Projects\my work\StrangeSui
 C:\Users\Ambrose Emmett\Documents\Visual Studio 2013\Projects\my work\StrangeSuits\MasterServer\obj\Release\MasterServer.csprojResolveAssemblyReference.cache
 C:\Users\Ambrose Emmett\Documents\Visual Studio 2013\Projects\my work\StrangeSuits\MasterServer\obj\Release\MasterServer.exe
 C:\Users\Ambrose Emmett\Documents\Visual Studio 2013\Projects\my work\StrangeSuits\MasterServer\obj\Release\MasterServer.pdb
+C:\Users\Ambrose Emmett\Documents\GitHub\StrangeSuits\MasterServer\bin\Release\MasterServer.exe.config
+C:\Users\Ambrose Emmett\Documents\GitHub\StrangeSuits\MasterServer\obj\Release\MasterServer.exe
+C:\Users\Ambrose Emmett\Documents\GitHub\StrangeSuits\MasterServer\bin\Release\MasterServer.exe
+C:\Users\Ambrose Emmett\Documents\GitHub\StrangeSuits\MasterServer\bin\Release\MasterServer.pdb
+C:\Users\Ambrose Emmett\Documents\GitHub\StrangeSuits\MasterServer\bin\Release\Lidgren.Network.dll
+C:\Users\Ambrose Emmett\Documents\GitHub\StrangeSuits\MasterServer\bin\Release\NetworkCommon.dll
+C:\Users\Ambrose Emmett\Documents\GitHub\StrangeSuits\MasterServer\bin\Release\NetworkCommon.pdb
+C:\Users\Ambrose Emmett\Documents\GitHub\StrangeSuits\MasterServer\obj\Release\MasterServer.csprojResolveAssemblyReference.cache
+C:\Users\Ambrose Emmett\Documents\GitHub\StrangeSuits\MasterServer\obj\Release\MasterServer.pdb

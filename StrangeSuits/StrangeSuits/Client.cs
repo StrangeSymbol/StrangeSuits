@@ -31,8 +31,10 @@ namespace StrangeSuits
             NetPeerConfiguration config = new NetPeerConfiguration("strange suits");
             config.EnableMessageType(NetIncomingMessageType.UnconnectedData);
             config.EnableMessageType(NetIncomingMessageType.NatIntroductionSuccess);
+            config.EnableMessageType(NetIncomingMessageType.DiscoveryResponse);
             SSEngine.Peer = new NetClient(config);
             SSEngine.Peer.Start();
+            SSEngine.Peer.DiscoverKnownPeer(SSEngine.MasterServerEndpoint);
 
             lobby.StartUpdate();
             lobby.ShowDialog();
@@ -55,6 +57,10 @@ namespace StrangeSuits
                     case NetIncomingMessageType.WarningMessage:
                     case NetIncomingMessageType.ErrorMessage:
                         NativeMethods.AppendText(lobby.richTextBox1, inc.ReadString());
+                        break;
+                    case NetIncomingMessageType.DiscoveryResponse:
+                        NativeMethods.AppendText(lobby.richTextBox1,
+                            "Found server at " + inc.SenderEndPoint + " name: " + inc.ReadString());
                         break;
                     case NetIncomingMessageType.UnconnectedData:
                         if (inc.SenderEndPoint.Equals(SSEngine.MasterServerEndpoint))

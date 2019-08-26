@@ -2,3 +2,8 @@ C:\Users\Ambrose Emmett\Documents\Visual Studio 2013\Projects\my work\StrangeSui
 C:\Users\Ambrose Emmett\Documents\Visual Studio 2013\Projects\my work\StrangeSuits\NetworkCommon\bin\Debug\NetworkCommon.pdb
 C:\Users\Ambrose Emmett\Documents\Visual Studio 2013\Projects\my work\StrangeSuits\NetworkCommon\obj\Debug\NetworkCommon.dll
 C:\Users\Ambrose Emmett\Documents\Visual Studio 2013\Projects\my work\StrangeSuits\NetworkCommon\obj\Debug\NetworkCommon.pdb
+C:\Users\Ambrose Emmett\Documents\GitHub\StrangeSuits\NetworkCommon\bin\Debug\NetworkCommon.dll
+C:\Users\Ambrose Emmett\Documents\GitHub\StrangeSuits\NetworkCommon\bin\Debug\NetworkCommon.pdb
+C:\Users\Ambrose Emmett\Documents\GitHub\StrangeSuits\NetworkCommon\obj\Debug\NetworkCommon.csprojResolveAssemblyReference.cache
+C:\Users\Ambrose Emmett\Documents\GitHub\StrangeSuits\NetworkCommon\obj\Debug\NetworkCommon.dll
+C:\Users\Ambrose Emmett\Documents\GitHub\StrangeSuits\NetworkCommon\obj\Debug\NetworkCommon.pdb
