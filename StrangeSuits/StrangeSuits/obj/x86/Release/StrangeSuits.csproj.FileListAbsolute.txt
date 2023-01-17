@@ -112,7 +112,6 @@ C:\Users\Ambrose Emmett\Documents\Visual Studio 2013\Projects\my work\StrangeSui
 C:\Users\Ambrose Emmett\Documents\Visual Studio 2013\Projects\my work\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Release\Content\Menu\mainmenu.xnb
 C:\Users\Ambrose Emmett\Documents\Visual Studio 2013\Projects\my work\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Release\Content\Menu\Rules.xnb
 C:\Users\Ambrose Emmett\Documents\Visual Studio 2013\Projects\my work\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Release\Content\Menu\Title.xnb
-C:\Users\Ambrose Emmett\Documents\GitHub\StrangeSuits\StrangeSuits\StrangeSuits\obj\x86\Release\StrangeSuits.csprojResolveAssemblyReference.cache
 C:\Users\Ambrose Emmett\Documents\GitHub\StrangeSuits\StrangeSuits\StrangeSuits\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
 C:\Users\Ambrose Emmett\Documents\GitHub\StrangeSuits\StrangeSuits\StrangeSuits\obj\x86\Release\StrangeSuits.Lobby.resources
 C:\Users\Ambrose Emmett\Documents\GitHub\StrangeSuits\StrangeSuits\StrangeSuits\obj\x86\Release\StrangeSuits.NetworkConnector.resources
@@ -226,3 +225,16 @@ C:\Users\Ambrose Emmett\Documents\GitHub\StrangeSuits\StrangeSuits\StrangeSuits\
 C:\Users\Ambrose Emmett\Documents\GitHub\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Release\Lidgren.Network.pdb
 C:\Users\Ambrose Emmett\Documents\GitHub\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Release\Lidgren.Network.xml
 C:\Users\Ambrose Emmett\Documents\GitHub\StrangeSuits\StrangeSuits\StrangeSuits\obj\x86\Release\StrangeSuits.pdb
+C:\Users\Ambrose Emmett\Documents\GitHub\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Release\Microsoft.Xna.Framework.dll
+C:\Users\Ambrose Emmett\Documents\GitHub\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Release\Microsoft.Xna.Framework.Game.dll
+C:\Users\Ambrose Emmett\Documents\GitHub\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Release\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\Ambrose Emmett\Documents\GitHub\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Release\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\Ambrose Emmett\Documents\GitHub\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Release\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\Ambrose Emmett\Documents\GitHub\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Release\Microsoft.Xna.Framework.xml
+C:\Users\Ambrose Emmett\Documents\GitHub\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Release\Microsoft.Xna.Framework.Game.xml
+C:\Users\Ambrose Emmett\Documents\GitHub\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Release\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\Ambrose Emmett\Documents\GitHub\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Release\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\Ambrose Emmett\Documents\GitHub\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Release\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\Ambrose Emmett\Documents\GitHub\StrangeSuits\StrangeSuits\StrangeSuits\obj\x86\Release\StrangeSuits.csprojAssemblyReference.cache
+C:\Users\Ambrose Emmett\Documents\GitHub\StrangeSuits\StrangeSuits\StrangeSuits\obj\x86\Release\StrangeSuits.csproj.CoreCompileInputs.cache
+C:\Users\Ambrose Emmett\Documents\GitHub\StrangeSuits\StrangeSuits\StrangeSuits\obj\x86\Release\StrangeSuits.csproj.CopyComplete

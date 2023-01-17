@@ -8,7 +8,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>C:\Users\Ambrose Emmett\Documents\GitHub\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Release\Content\Buttons\backBtnCover.xnb</Output>
-      <Time>2019-06-12T14:32:18.966142-04:00</Time>
+      <Time>2019-08-13T16:01:54.9931642-04:00</Time>
     </Item>
     <Item>
       <Source>Menu\BlendTextDeveStrange.png</Source>
@@ -17,7 +17,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>C:\Users\Ambrose Emmett\Documents\GitHub\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Release\Content\Menu\BlendTextDeveStrange.xnb</Output>
-      <Time>2019-06-12T14:32:19.0286381-04:00</Time>
+      <Time>2019-08-13T16:01:55.03091-04:00</Time>
     </Item>
     <Item>
       <Source>Buttons\ButtonCover.png</Source>
@@ -26,7 +26,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>C:\Users\Ambrose Emmett\Documents\GitHub\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Release\Content\Buttons\ButtonCover.xnb</Output>
-      <Time>2019-06-12T14:32:19.0442619-04:00</Time>
+      <Time>2019-08-13T16:01:54.9851032-04:00</Time>
     </Item>
     <Item>
       <Source>DeckPile.png</Source>
@@ -35,7 +35,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>C:\Users\Ambrose Emmett\Documents\GitHub\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Release\Content\DeckPile.xnb</Output>
-      <Time>2019-06-12T14:32:19.0598897-04:00</Time>
+      <Time>2019-08-13T16:01:55.0258745-04:00</Time>
     </Item>
     <Item>
       <Source>DiscardPile.png</Source>
@@ -44,7 +44,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>C:\Users\Ambrose Emmett\Documents\GitHub\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Release\Content\DiscardPile.xnb</Output>
-      <Time>2019-06-12T14:32:19.0755135-04:00</Time>
+      <Time>2019-08-13T16:01:55.0258745-04:00</Time>
     </Item>
     <Item>
       <Source>DrawOutline.png</Source>
@@ -53,7 +53,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>C:\Users\Ambrose Emmett\Documents\GitHub\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Release\Content\DrawOutline.xnb</Output>
-      <Time>2019-06-12T14:32:19.0755135-04:00</Time>
+      <Time>2019-08-13T16:01:55.03091-04:00</Time>
     </Item>
     <Item>
       <Source>Menu\mainmenu.jpg</Source>
@@ -62,7 +62,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>C:\Users\Ambrose Emmett\Documents\GitHub\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Release\Content\Menu\mainmenu.xnb</Output>
-      <Time>2019-06-12T14:32:19.1380178-04:00</Time>
+      <Time>2019-08-13T16:01:55.0409162-04:00</Time>
     </Item>
     <Item>
       <Source>Buttons\PaperButton.png</Source>
@@ -71,7 +71,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>C:\Users\Ambrose Emmett\Documents\GitHub\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Release\Content\Buttons\PaperButton.xnb</Output>
-      <Time>2019-06-12T14:32:19.1536395-04:00</Time>
+      <Time>2019-08-13T16:01:54.9851032-04:00</Time>
     </Item>
     <Item>
       <Source>Buttons\RockButton.png</Source>
@@ -80,7 +80,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>C:\Users\Ambrose Emmett\Documents\GitHub\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Release\Content\Buttons\RockButton.xnb</Output>
-      <Time>2019-06-12T14:32:19.1692643-04:00</Time>
+      <Time>2019-08-13T16:01:54.9851032-04:00</Time>
     </Item>
     <Item>
       <Source>Buttons\RocPapSciButton.png</Source>
@@ -89,7 +89,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>C:\Users\Ambrose Emmett\Documents\GitHub\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Release\Content\Buttons\RocPapSciButton.xnb</Output>
-      <Time>2019-06-12T14:32:19.1848891-04:00</Time>
+      <Time>2019-08-13T16:01:54.9851032-04:00</Time>
     </Item>
     <Item>
       <Source>Menu\Rules.jpg</Source>
@@ -98,7 +98,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>C:\Users\Ambrose Emmett\Documents\GitHub\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Release\Content\Menu\Rules.xnb</Output>
-      <Time>2019-06-12T14:32:19.1848891-04:00</Time>
+      <Time>2019-08-13T16:01:55.03091-04:00</Time>
     </Item>
     <Item>
       <Source>Buttons\ScissorsButton.png</Source>
@@ -107,7 +107,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>C:\Users\Ambrose Emmett\Documents\GitHub\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Release\Content\Buttons\ScissorsButton.xnb</Output>
-      <Time>2019-06-12T14:32:19.2005129-04:00</Time>
+      <Time>2019-08-13T16:01:54.9851032-04:00</Time>
     </Item>
     <Item>
       <Source>Buttons\Suit2PlayerButton.png</Source>
@@ -116,7 +116,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>C:\Users\Ambrose Emmett\Documents\GitHub\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Release\Content\Buttons\Suit2PlayerButton.xnb</Output>
-      <Time>2019-06-12T14:32:19.2630151-04:00</Time>
+      <Time>2019-08-13T16:01:54.9851032-04:00</Time>
     </Item>
     <Item>
       <Source>Buttons\SuitBackButton.png</Source>
@@ -125,7 +125,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>C:\Users\Ambrose Emmett\Documents\GitHub\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Release\Content\Buttons\SuitBackButton.xnb</Output>
-      <Time>2019-06-12T14:32:19.3098915-04:00</Time>
+      <Time>2019-08-13T16:01:54.9911471-04:00</Time>
     </Item>
     <Item>
       <Source>Buttons\SuitEasyButton.png</Source>
@@ -134,7 +134,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>C:\Users\Ambrose Emmett\Documents\GitHub\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Release\Content\Buttons\SuitEasyButton.xnb</Output>
-      <Time>2019-06-12T14:32:19.3411401-04:00</Time>
+      <Time>2019-08-13T16:01:54.9911471-04:00</Time>
     </Item>
     <Item>
       <Source>Buttons\SuitEndTurnButton.png</Source>
@@ -143,7 +143,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>C:\Users\Ambrose Emmett\Documents\GitHub\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Release\Content\Buttons\SuitEndTurnButton.xnb</Output>
-      <Time>2019-06-12T14:32:19.3567669-04:00</Time>
+      <Time>2019-08-13T16:01:54.9911471-04:00</Time>
     </Item>
     <Item>
       <Source>Buttons\SuitHardButton.png</Source>
@@ -152,7 +152,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>C:\Users\Ambrose Emmett\Documents\GitHub\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Release\Content\Buttons\SuitHardButton.xnb</Output>
-      <Time>2019-06-12T14:32:19.3723897-04:00</Time>
+      <Time>2019-08-13T16:01:54.9931642-04:00</Time>
     </Item>
     <Item>
       <Source>Buttons\SuitMediumButton.png</Source>
@@ -161,7 +161,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>C:\Users\Ambrose Emmett\Documents\GitHub\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Release\Content\Buttons\SuitMediumButton.xnb</Output>
-      <Time>2019-06-12T14:32:19.3880155-04:00</Time>
+      <Time>2019-08-13T16:01:54.9931642-04:00</Time>
     </Item>
     <Item>
       <Source>Buttons\SuitPlayButton.png</Source>
@@ -170,7 +170,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>C:\Users\Ambrose Emmett\Documents\GitHub\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Release\Content\Buttons\SuitPlayButton.xnb</Output>
-      <Time>2019-06-12T14:32:19.3880155-04:00</Time>
+      <Time>2019-08-13T16:01:54.9931642-04:00</Time>
     </Item>
     <Item>
       <Source>Buttons\SuitRulesButton.png</Source>
@@ -179,7 +179,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>C:\Users\Ambrose Emmett\Documents\GitHub\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Release\Content\Buttons\SuitRulesButton.xnb</Output>
-      <Time>2019-06-12T14:32:19.4036403-04:00</Time>
+      <Time>2019-08-13T16:01:54.9931642-04:00</Time>
     </Item>
     <Item>
       <Source>Buttons\SuitVeryEasyButton.png</Source>
@@ -188,7 +188,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>C:\Users\Ambrose Emmett\Documents\GitHub\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Release\Content\Buttons\SuitVeryEasyButton.xnb</Output>
-      <Time>2019-06-12T14:32:19.4192651-04:00</Time>
+      <Time>2019-08-13T16:01:54.9931642-04:00</Time>
     </Item>
     <Item>
       <Source>Buttons\SuitVeryHardButton.png</Source>
@@ -197,7 +197,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>C:\Users\Ambrose Emmett\Documents\GitHub\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Release\Content\Buttons\SuitVeryHardButton.xnb</Output>
-      <Time>2019-06-12T14:32:19.4348919-04:00</Time>
+      <Time>2019-08-13T16:01:54.9931642-04:00</Time>
     </Item>
     <Item>
       <Source>Menu\Title.png</Source>
@@ -206,7 +206,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>C:\Users\Ambrose Emmett\Documents\GitHub\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Release\Content\Menu\Title.xnb</Output>
-      <Time>2019-06-12T14:32:19.4661651-04:00</Time>
+      <Time>2019-08-13T16:01:55.03091-04:00</Time>
     </Item>
     <Item>
       <Source>Panel\Club.png</Source>
@@ -215,7 +215,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>C:\Users\Ambrose Emmett\Documents\GitHub\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Release\Content\Panel\Club.xnb</Output>
-      <Time>2019-06-12T14:33:04.0242266-04:00</Time>
+      <Time>2019-08-13T16:01:55.0409162-04:00</Time>
     </Item>
     <Item>
       <Source>Panel\Diamond.png</Source>
@@ -224,7 +224,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>C:\Users\Ambrose Emmett\Documents\GitHub\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Release\Content\Panel\Diamond.xnb</Output>
-      <Time>2019-06-12T14:33:04.0398514-04:00</Time>
+      <Time>2019-08-13T16:01:55.0409162-04:00</Time>
     </Item>
     <Item>
       <Source>Panel\Heart.png</Source>
@@ -233,7 +233,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>C:\Users\Ambrose Emmett\Documents\GitHub\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Release\Content\Panel\Heart.xnb</Output>
-      <Time>2019-06-12T14:33:04.0554742-04:00</Time>
+      <Time>2019-08-13T16:01:55.0409162-04:00</Time>
     </Item>
     <Item>
       <Source>Panel\OkButton.jpg</Source>
@@ -242,7 +242,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>C:\Users\Ambrose Emmett\Documents\GitHub\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Release\Content\Panel\OkButton.xnb</Output>
-      <Time>2019-06-12T14:33:04.0554742-04:00</Time>
+      <Time>2019-08-13T16:01:55.0459221-04:00</Time>
     </Item>
     <Item>
       <Source>Panel\OkButtonCover.png</Source>
@@ -251,7 +251,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>C:\Users\Ambrose Emmett\Documents\GitHub\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Release\Content\Panel\OkButtonCover.xnb</Output>
-      <Time>2019-06-12T14:33:04.071101-04:00</Time>
+      <Time>2019-08-13T16:01:55.0459221-04:00</Time>
     </Item>
     <Item>
       <Source>Panel\Panel.png</Source>
@@ -260,7 +260,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>C:\Users\Ambrose Emmett\Documents\GitHub\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Release\Content\Panel\Panel.xnb</Output>
-      <Time>2019-06-12T14:33:04.0867279-04:00</Time>
+      <Time>2019-08-13T16:01:55.0459221-04:00</Time>
     </Item>
     <Item>
       <Source>Panel\Spade.png</Source>
@@ -269,7 +269,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>C:\Users\Ambrose Emmett\Documents\GitHub\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Release\Content\Panel\Spade.xnb</Output>
-      <Time>2019-06-12T14:33:04.149226-04:00</Time>
+      <Time>2019-08-13T16:01:55.0459221-04:00</Time>
     </Item>
     <Item>
       <Source>Hand\ArrowButtonCoverL.png</Source>
@@ -278,7 +278,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>C:\Users\Ambrose Emmett\Documents\GitHub\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Release\Content\Hand\ArrowButtonCoverL.xnb</Output>
-      <Time>2019-06-12T14:34:12.9339199-04:00</Time>
+      <Time>2019-08-13T16:01:55.03091-04:00</Time>
     </Item>
     <Item>
       <Source>Hand\ArrowButtonCoverR.png</Source>
@@ -287,7 +287,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>C:\Users\Ambrose Emmett\Documents\GitHub\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Release\Content\Hand\ArrowButtonCoverR.xnb</Output>
-      <Time>2019-06-12T14:34:12.9651017-04:00</Time>
+      <Time>2019-08-13T16:01:55.03091-04:00</Time>
     </Item>
     <Item>
       <Source>Hand\ArrowButtonL.png</Source>
@@ -296,7 +296,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>C:\Users\Ambrose Emmett\Documents\GitHub\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Release\Content\Hand\ArrowButtonL.xnb</Output>
-      <Time>2019-06-12T14:34:12.996377-04:00</Time>
+      <Time>2019-08-13T16:01:55.03091-04:00</Time>
     </Item>
     <Item>
       <Source>Hand\ArrowButtonR.png</Source>
@@ -305,7 +305,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>C:\Users\Ambrose Emmett\Documents\GitHub\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Release\Content\Hand\ArrowButtonR.xnb</Output>
-      <Time>2019-06-12T14:34:13.0119782-04:00</Time>
+      <Time>2019-08-13T16:01:55.03091-04:00</Time>
     </Item>
     <Item>
       <Source>DeckOfCards\AceClub.jpg</Source>
@@ -314,7 +314,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>C:\Users\Ambrose Emmett\Documents\GitHub\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Release\Content\DeckOfCards\AceClub.xnb</Output>
-      <Time>2019-06-12T14:36:03.0702875-04:00</Time>
+      <Time>2019-08-13T16:01:54.9931642-04:00</Time>
     </Item>
     <Item>
       <Source>DeckOfCards\AceDiamond.jpg</Source>
@@ -323,7 +323,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>C:\Users\Ambrose Emmett\Documents\GitHub\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Release\Content\DeckOfCards\AceDiamond.xnb</Output>
-      <Time>2019-06-12T14:36:03.0858404-04:00</Time>
+      <Time>2019-08-13T16:01:54.9931642-04:00</Time>
     </Item>
     <Item>
       <Source>DeckOfCards\AceHearts.jpg</Source>
@@ -332,7 +332,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>C:\Users\Ambrose Emmett\Documents\GitHub\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Release\Content\DeckOfCards\AceHearts.xnb</Output>
-      <Time>2019-06-12T14:36:03.1170859-04:00</Time>
+      <Time>2019-08-13T16:01:54.9931642-04:00</Time>
     </Item>
     <Item>
       <Source>DeckOfCards\AceSpades.jpg</Source>
@@ -341,7 +341,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>C:\Users\Ambrose Emmett\Documents\GitHub\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Release\Content\DeckOfCards\AceSpades.xnb</Output>
-      <Time>2019-06-12T14:36:03.1170859-04:00</Time>
+      <Time>2019-08-13T16:01:55.001179-04:00</Time>
     </Item>
     <Item>
       <Source>DeckOfCards\CardBack.jpg</Source>
@@ -350,7 +350,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>C:\Users\Ambrose Emmett\Documents\GitHub\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Release\Content\DeckOfCards\CardBack.xnb</Output>
-      <Time>2019-06-12T14:36:03.1327128-04:00</Time>
+      <Time>2019-08-13T16:01:55.001179-04:00</Time>
     </Item>
     <Item>
       <Source>DeckOfCards\DeuceClub.jpg</Source>
@@ -359,7 +359,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>C:\Users\Ambrose Emmett\Documents\GitHub\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Release\Content\DeckOfCards\DeuceClub.xnb</Output>
-      <Time>2019-06-12T14:36:03.1639634-04:00</Time>
+      <Time>2019-08-13T16:01:55.001179-04:00</Time>
     </Item>
     <Item>
       <Source>DeckOfCards\DeuceDiamond.jpg</Source>
@@ -368,7 +368,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>C:\Users\Ambrose Emmett\Documents\GitHub\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Release\Content\DeckOfCards\DeuceDiamond.xnb</Output>
-      <Time>2019-06-12T14:36:03.1639634-04:00</Time>
+      <Time>2019-08-13T16:01:55.001179-04:00</Time>
     </Item>
     <Item>
       <Source>DeckOfCards\DeuceHearts.jpg</Source>
@@ -377,7 +377,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>C:\Users\Ambrose Emmett\Documents\GitHub\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Release\Content\DeckOfCards\DeuceHearts.xnb</Output>
-      <Time>2019-06-12T14:36:03.1795882-04:00</Time>
+      <Time>2019-08-13T16:01:55.003192-04:00</Time>
     </Item>
     <Item>
       <Source>DeckOfCards\DeuceSpades.jpg</Source>
@@ -386,7 +386,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>C:\Users\Ambrose Emmett\Documents\GitHub\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Release\Content\DeckOfCards\DeuceSpades.xnb</Output>
-      <Time>2019-06-12T14:36:03.1952129-04:00</Time>
+      <Time>2019-08-13T16:01:55.003192-04:00</Time>
     </Item>
     <Item>
       <Source>DeckOfCards\EightClub.jpg</Source>
@@ -395,7 +395,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>C:\Users\Ambrose Emmett\Documents\GitHub\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Release\Content\DeckOfCards\EightClub.xnb</Output>
-      <Time>2019-06-12T14:36:03.2108377-04:00</Time>
+      <Time>2019-08-13T16:01:55.003192-04:00</Time>
     </Item>
     <Item>
       <Source>DeckOfCards\EightDiamond.jpg</Source>
@@ -404,7 +404,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>C:\Users\Ambrose Emmett\Documents\GitHub\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Release\Content\DeckOfCards\EightDiamond.xnb</Output>
-      <Time>2019-06-12T14:36:03.2420873-04:00</Time>
+      <Time>2019-08-13T16:01:55.003192-04:00</Time>
     </Item>
     <Item>
       <Source>DeckOfCards\EightHearts.jpg</Source>
@@ -413,7 +413,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>C:\Users\Ambrose Emmett\Documents\GitHub\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Release\Content\DeckOfCards\EightHearts.xnb</Output>
-      <Time>2019-06-12T14:36:03.2577121-04:00</Time>
+      <Time>2019-08-13T16:01:55.003192-04:00</Time>
     </Item>
     <Item>
       <Source>DeckOfCards\EightSpades.jpg</Source>
@@ -422,7 +422,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>C:\Users\Ambrose Emmett\Documents\GitHub\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Release\Content\DeckOfCards\EightSpades.xnb</Output>
-      <Time>2019-06-12T14:36:03.2733379-04:00</Time>
+      <Time>2019-08-13T16:01:55.003192-04:00</Time>
     </Item>
     <Item>
       <Source>DeckOfCards\FiveClub.jpg</Source>
@@ -431,7 +431,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>C:\Users\Ambrose Emmett\Documents\GitHub\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Release\Content\DeckOfCards\FiveClub.xnb</Output>
-      <Time>2019-06-12T14:36:03.2733379-04:00</Time>
+      <Time>2019-08-13T16:01:55.003192-04:00</Time>
     </Item>
     <Item>
       <Source>DeckOfCards\FiveDiamond.jpg</Source>
@@ -440,7 +440,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>C:\Users\Ambrose Emmett\Documents\GitHub\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Release\Content\DeckOfCards\FiveDiamond.xnb</Output>
-      <Time>2019-06-12T14:36:03.2889617-04:00</Time>
+      <Time>2019-08-13T16:01:55.003192-04:00</Time>
     </Item>
     <Item>
       <Source>DeckOfCards\FiveHearts.jpg</Source>
@@ -449,7 +449,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>C:\Users\Ambrose Emmett\Documents\GitHub\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Release\Content\DeckOfCards\FiveHearts.xnb</Output>
-      <Time>2019-06-12T14:36:03.3045885-04:00</Time>
+      <Time>2019-08-13T16:01:55.003192-04:00</Time>
     </Item>
     <Item>
       <Source>DeckOfCards\FiveSpades.jpg</Source>
@@ -458,7 +458,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>C:\Users\Ambrose Emmett\Documents\GitHub\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Release\Content\DeckOfCards\FiveSpades.xnb</Output>
-      <Time>2019-06-12T14:36:03.3202133-04:00</Time>
+      <Time>2019-08-13T16:01:55.003192-04:00</Time>
     </Item>
     <Item>
       <Source>DeckOfCards\FourClub.jpg</Source>
@@ -467,7 +467,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>C:\Users\Ambrose Emmett\Documents\GitHub\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Release\Content\DeckOfCards\FourClub.xnb</Output>
-      <Time>2019-06-12T14:36:03.3358392-04:00</Time>
+      <Time>2019-08-13T16:01:55.003192-04:00</Time>
     </Item>
     <Item>
       <Source>DeckOfCards\FourDiamond.jpg</Source>
@@ -476,7 +476,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>C:\Users\Ambrose Emmett\Documents\GitHub\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Release\Content\DeckOfCards\FourDiamond.xnb</Output>
-      <Time>2019-06-12T14:36:03.3514619-04:00</Time>
+      <Time>2019-08-13T16:01:55.003192-04:00</Time>
     </Item>
     <Item>
       <Source>DeckOfCards\FourHearts.jpg</Source>
@@ -485,7 +485,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>C:\Users\Ambrose Emmett\Documents\GitHub\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Release\Content\DeckOfCards\FourHearts.xnb</Output>
-      <Time>2019-06-12T14:36:03.3514619-04:00</Time>
+      <Time>2019-08-13T16:01:55.003192-04:00</Time>
     </Item>
     <Item>
       <Source>DeckOfCards\FourSpades.jpg</Source>
@@ -494,7 +494,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>C:\Users\Ambrose Emmett\Documents\GitHub\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Release\Content\DeckOfCards\FourSpades.xnb</Output>
-      <Time>2019-06-12T14:36:03.3670887-04:00</Time>
+      <Time>2019-08-13T16:01:55.003192-04:00</Time>
     </Item>
     <Item>
       <Source>DeckOfCards\JackClub.jpg</Source>
@@ -503,7 +503,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>C:\Users\Ambrose Emmett\Documents\GitHub\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Release\Content\DeckOfCards\JackClub.xnb</Output>
-      <Time>2019-06-12T14:36:03.3827135-04:00</Time>
+      <Time>2019-08-13T16:01:55.0112043-04:00</Time>
     </Item>
     <Item>
       <Source>DeckOfCards\JackDiamond.jpg</Source>
@@ -512,7 +512,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>C:\Users\Ambrose Emmett\Documents\GitHub\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Release\Content\DeckOfCards\JackDiamond.xnb</Output>
-      <Time>2019-06-12T14:36:03.3983383-04:00</Time>
+      <Time>2019-08-13T16:01:55.0112043-04:00</Time>
     </Item>
     <Item>
       <Source>DeckOfCards\JackHearts.jpg</Source>
@@ -521,7 +521,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>C:\Users\Ambrose Emmett\Documents\GitHub\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Release\Content\DeckOfCards\JackHearts.xnb</Output>
-      <Time>2019-06-12T14:36:03.4139631-04:00</Time>
+      <Time>2019-08-13T16:01:55.0112043-04:00</Time>
     </Item>
     <Item>
       <Source>DeckOfCards\JackSpades.jpg</Source>
@@ -530,7 +530,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>C:\Users\Ambrose Emmett\Documents\GitHub\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Release\Content\DeckOfCards\JackSpades.xnb</Output>
-      <Time>2019-06-12T14:36:03.4139631-04:00</Time>
+      <Time>2019-08-13T16:01:55.0112043-04:00</Time>
     </Item>
     <Item>
       <Source>DeckOfCards\KingClub.jpg</Source>
@@ -539,7 +539,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>C:\Users\Ambrose Emmett\Documents\GitHub\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Release\Content\DeckOfCards\KingClub.xnb</Output>
-      <Time>2019-06-12T14:36:03.4295889-04:00</Time>
+      <Time>2019-08-13T16:01:55.0112043-04:00</Time>
     </Item>
     <Item>
       <Source>DeckOfCards\KingDiamond.jpg</Source>
@@ -548,7 +548,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>C:\Users\Ambrose Emmett\Documents\GitHub\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Release\Content\DeckOfCards\KingDiamond.xnb</Output>
-      <Time>2019-06-12T14:36:03.4452147-04:00</Time>
+      <Time>2019-08-13T16:01:55.0112043-04:00</Time>
     </Item>
     <Item>
       <Source>DeckOfCards\KingHearts.jpg</Source>
@@ -557,7 +557,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>C:\Users\Ambrose Emmett\Documents\GitHub\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Release\Content\DeckOfCards\KingHearts.xnb</Output>
-      <Time>2019-06-12T14:36:03.4608385-04:00</Time>
+      <Time>2019-08-13T16:01:55.0112043-04:00</Time>
     </Item>
     <Item>
       <Source>DeckOfCards\KingSpades.jpg</Source>
@@ -566,7 +566,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>C:\Users\Ambrose Emmett\Documents\GitHub\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Release\Content\DeckOfCards\KingSpades.xnb</Output>
-      <Time>2019-06-12T14:36:03.4608385-04:00</Time>
+      <Time>2019-08-13T16:01:55.0112043-04:00</Time>
     </Item>
     <Item>
       <Source>DeckOfCards\NineClub.jpg</Source>
@@ -575,7 +575,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>C:\Users\Ambrose Emmett\Documents\GitHub\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Release\Content\DeckOfCards\NineClub.xnb</Output>
-      <Time>2019-06-12T14:36:03.4764654-04:00</Time>
+      <Time>2019-08-13T16:01:55.0112043-04:00</Time>
     </Item>
     <Item>
       <Source>DeckOfCards\NineDiamond.jpg</Source>
@@ -584,7 +584,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>C:\Users\Ambrose Emmett\Documents\GitHub\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Release\Content\DeckOfCards\NineDiamond.xnb</Output>
-      <Time>2019-06-12T14:36:03.4920901-04:00</Time>
+      <Time>2019-08-13T16:01:55.0112043-04:00</Time>
     </Item>
     <Item>
       <Source>DeckOfCards\NineHearts.jpg</Source>
@@ -593,7 +593,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>C:\Users\Ambrose Emmett\Documents\GitHub\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Release\Content\DeckOfCards\NineHearts.xnb</Output>
-      <Time>2019-06-12T14:36:03.5077129-04:00</Time>
+      <Time>2019-08-13T16:01:55.0112043-04:00</Time>
     </Item>
     <Item>
       <Source>DeckOfCards\NineSpades.jpg</Source>
@@ -602,7 +602,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>C:\Users\Ambrose Emmett\Documents\GitHub\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Release\Content\DeckOfCards\NineSpades.xnb</Output>
-      <Time>2019-06-12T14:36:03.5077129-04:00</Time>
+      <Time>2019-08-13T16:01:55.0112043-04:00</Time>
     </Item>
     <Item>
       <Source>DeckOfCards\QueenClub.jpg</Source>
@@ -611,7 +611,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>C:\Users\Ambrose Emmett\Documents\GitHub\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Release\Content\DeckOfCards\QueenClub.xnb</Output>
-      <Time>2019-06-12T14:36:03.5233387-04:00</Time>
+      <Time>2019-08-13T16:01:55.0112043-04:00</Time>
     </Item>
     <Item>
       <Source>DeckOfCards\QueenDiamond.jpg</Source>
@@ -620,7 +620,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>C:\Users\Ambrose Emmett\Documents\GitHub\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Release\Content\DeckOfCards\QueenDiamond.xnb</Output>
-      <Time>2019-06-12T14:36:03.5389645-04:00</Time>
+      <Time>2019-08-13T16:01:55.0112043-04:00</Time>
     </Item>
     <Item>
       <Source>DeckOfCards\QueenHearts.jpg</Source>
@@ -629,7 +629,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>C:\Users\Ambrose Emmett\Documents\GitHub\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Release\Content\DeckOfCards\QueenHearts.xnb</Output>
-      <Time>2019-06-12T14:36:03.5545893-04:00</Time>
+      <Time>2019-08-13T16:01:55.0112043-04:00</Time>
     </Item>
     <Item>
       <Source>DeckOfCards\QueenSpades.jpg</Source>
@@ -638,7 +638,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>C:\Users\Ambrose Emmett\Documents\GitHub\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Release\Content\DeckOfCards\QueenSpades.xnb</Output>
-      <Time>2019-06-12T14:36:03.5702141-04:00</Time>
+      <Time>2019-08-13T16:01:55.0112043-04:00</Time>
     </Item>
     <Item>
       <Source>DeckOfCards\SevenClub.jpg</Source>
@@ -647,7 +647,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>C:\Users\Ambrose Emmett\Documents\GitHub\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Release\Content\DeckOfCards\SevenClub.xnb</Output>
-      <Time>2019-06-12T14:36:03.5702141-04:00</Time>
+      <Time>2019-08-13T16:01:55.0208408-04:00</Time>
     </Item>
     <Item>
       <Source>DeckOfCards\SevenDiamond.jpg</Source>
@@ -656,7 +656,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>C:\Users\Ambrose Emmett\Documents\GitHub\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Release\Content\DeckOfCards\SevenDiamond.xnb</Output>
-      <Time>2019-06-12T14:36:03.5858399-04:00</Time>
+      <Time>2019-08-13T16:01:55.0208408-04:00</Time>
     </Item>
     <Item>
       <Source>DeckOfCards\SevenHearts.jpg</Source>
@@ -665,7 +665,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>C:\Users\Ambrose Emmett\Documents\GitHub\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Release\Content\DeckOfCards\SevenHearts.xnb</Output>
-      <Time>2019-06-12T14:36:03.6014657-04:00</Time>
+      <Time>2019-08-13T16:01:55.0208408-04:00</Time>
     </Item>
     <Item>
       <Source>DeckOfCards\SevenSpades.jpg</Source>
@@ -674,7 +674,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>C:\Users\Ambrose Emmett\Documents\GitHub\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Release\Content\DeckOfCards\SevenSpades.xnb</Output>
-      <Time>2019-06-12T14:36:03.6170885-04:00</Time>
+      <Time>2019-08-13T16:01:55.0208408-04:00</Time>
     </Item>
     <Item>
       <Source>DeckOfCards\SixClub.jpg</Source>
@@ -683,7 +683,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>C:\Users\Ambrose Emmett\Documents\GitHub\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Release\Content\DeckOfCards\SixClub.xnb</Output>
-      <Time>2019-06-12T14:36:03.6327143-04:00</Time>
+      <Time>2019-08-13T16:01:55.0208408-04:00</Time>
     </Item>
     <Item>
       <Source>DeckOfCards\SixDiamond.jpg</Source>
@@ -692,7 +692,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>C:\Users\Ambrose Emmett\Documents\GitHub\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Release\Content\DeckOfCards\SixDiamond.xnb</Output>
-      <Time>2019-06-12T14:36:03.6483381-04:00</Time>
+      <Time>2019-08-13T16:01:55.0208408-04:00</Time>
     </Item>
     <Item>
       <Source>DeckOfCards\SixHearts.jpg</Source>
@@ -701,7 +701,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>C:\Users\Ambrose Emmett\Documents\GitHub\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Release\Content\DeckOfCards\SixHearts.xnb</Output>
-      <Time>2019-06-12T14:36:03.6639649-04:00</Time>
+      <Time>2019-08-13T16:01:55.0208408-04:00</Time>
     </Item>
     <Item>
       <Source>DeckOfCards\SixSpades.jpg</Source>
@@ -710,7 +710,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>C:\Users\Ambrose Emmett\Documents\GitHub\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Release\Content\DeckOfCards\SixSpades.xnb</Output>
-      <Time>2019-06-12T14:36:03.6795887-04:00</Time>
+      <Time>2019-08-13T16:01:55.0208408-04:00</Time>
     </Item>
     <Item>
       <Source>DeckOfCards\TenClub.jpg</Source>
@@ -719,7 +719,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>C:\Users\Ambrose Emmett\Documents\GitHub\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Release\Content\DeckOfCards\TenClub.xnb</Output>
-      <Time>2019-06-12T14:36:03.6952145-04:00</Time>
+      <Time>2019-08-13T16:01:55.0208408-04:00</Time>
     </Item>
     <Item>
       <Source>DeckOfCards\TenDiamond.jpg</Source>
@@ -728,7 +728,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>C:\Users\Ambrose Emmett\Documents\GitHub\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Release\Content\DeckOfCards\TenDiamond.xnb</Output>
-      <Time>2019-06-12T14:36:03.7108383-04:00</Time>
+      <Time>2019-08-13T16:01:55.0258745-04:00</Time>
     </Item>
     <Item>
       <Source>DeckOfCards\TenHearts.jpg</Source>
@@ -737,7 +737,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>C:\Users\Ambrose Emmett\Documents\GitHub\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Release\Content\DeckOfCards\TenHearts.xnb</Output>
-      <Time>2019-06-12T14:36:03.7108383-04:00</Time>
+      <Time>2019-08-13T16:01:55.0258745-04:00</Time>
     </Item>
     <Item>
       <Source>DeckOfCards\TenSpades.jpg</Source>
@@ -746,7 +746,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>C:\Users\Ambrose Emmett\Documents\GitHub\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Release\Content\DeckOfCards\TenSpades.xnb</Output>
-      <Time>2019-06-12T14:36:03.7264651-04:00</Time>
+      <Time>2019-08-13T16:01:55.0258745-04:00</Time>
     </Item>
     <Item>
       <Source>DeckOfCards\ThreeClub.jpg</Source>
@@ -755,7 +755,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>C:\Users\Ambrose Emmett\Documents\GitHub\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Release\Content\DeckOfCards\ThreeClub.xnb</Output>
-      <Time>2019-06-12T14:36:03.7420899-04:00</Time>
+      <Time>2019-08-13T16:01:55.0258745-04:00</Time>
     </Item>
     <Item>
       <Source>DeckOfCards\ThreeDiamond.jpg</Source>
@@ -764,7 +764,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>C:\Users\Ambrose Emmett\Documents\GitHub\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Release\Content\DeckOfCards\ThreeDiamond.xnb</Output>
-      <Time>2019-06-12T14:36:03.7577157-04:00</Time>
+      <Time>2019-08-13T16:01:55.0258745-04:00</Time>
     </Item>
     <Item>
       <Source>DeckOfCards\ThreeHearts.jpg</Source>
@@ -773,7 +773,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>C:\Users\Ambrose Emmett\Documents\GitHub\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Release\Content\DeckOfCards\ThreeHearts.xnb</Output>
-      <Time>2019-06-12T14:36:03.8514645-04:00</Time>
+      <Time>2019-08-13T16:01:55.0258745-04:00</Time>
     </Item>
     <Item>
       <Source>DeckOfCards\ThreeSpades.jpg</Source>
@@ -782,7 +782,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>C:\Users\Ambrose Emmett\Documents\GitHub\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Release\Content\DeckOfCards\ThreeSpades.xnb</Output>
-      <Time>2019-06-12T14:36:03.8827161-04:00</Time>
+      <Time>2019-08-13T16:01:55.0258745-04:00</Time>
     </Item>
     <Item>
       <Source>Buttons\SuitSettingsButton.png</Source>
@@ -791,7 +791,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>C:\Users\Ambrose Emmett\Documents\GitHub\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Release\Content\Buttons\SuitSettingsButton.xnb</Output>
-      <Time>2019-06-22T04:42:23.4468775-04:00</Time>
+      <Time>2019-08-13T16:01:54.9931642-04:00</Time>
     </Item>
     <Item>
       <Source>SplashScreens\SplashScreen.png</Source>
@@ -800,7 +800,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>C:\Users\Ambrose Emmett\Documents\GitHub\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Release\Content\SplashScreens\SplashScreen.xnb</Output>
-      <Time>2019-06-22T04:58:19.6189152-04:00</Time>
+      <Time>2019-08-13T16:01:55.0509656-04:00</Time>
     </Item>
     <Item>
       <Source>SplashScreens\SplashScreenOctober.png</Source>
@@ -809,7 +809,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>C:\Users\Ambrose Emmett\Documents\GitHub\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Release\Content\SplashScreens\SplashScreenOctober.xnb</Output>
-      <Time>2019-06-23T02:22:29.4231954-04:00</Time>
+      <Time>2019-08-13T16:01:55.0509656-04:00</Time>
     </Item>
     <Item>
       <Source>SplashScreens\SplashScreenDecember.png</Source>
@@ -818,7 +818,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>C:\Users\Ambrose Emmett\Documents\GitHub\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Release\Content\SplashScreens\SplashScreenDecember.xnb</Output>
-      <Time>2019-06-23T02:47:04.8905178-04:00</Time>
+      <Time>2019-08-13T16:01:55.0509656-04:00</Time>
     </Item>
     <Item>
       <Source>SplashScreens\SplashScreenMarch.png</Source>
@@ -827,7 +827,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>C:\Users\Ambrose Emmett\Documents\GitHub\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Release\Content\SplashScreens\SplashScreenMarch.xnb</Output>
-      <Time>2019-06-23T02:47:04.9217674-04:00</Time>
+      <Time>2019-08-13T16:01:55.0509656-04:00</Time>
     </Item>
     <Item>
       <Source>Buttons\SuitLANButton.png</Source>
@@ -836,7 +836,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>C:\Users\Ambrose Emmett\Documents\GitHub\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Release\Content\Buttons\SuitLANButton.xnb</Output>
-      <Time>2019-06-23T16:03:25.6858722-04:00</Time>
+      <Time>2019-08-13T16:01:54.9931642-04:00</Time>
     </Item>
     <Item>
       <Source>Buttons\SuitOnlineButton.png</Source>
@@ -845,7 +845,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>C:\Users\Ambrose Emmett\Documents\GitHub\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Release\Content\Buttons\SuitOnlineButton.xnb</Output>
-      <Time>2019-06-23T16:03:25.8420953-04:00</Time>
+      <Time>2019-08-13T16:01:54.9931642-04:00</Time>
     </Item>
     <Item>
       <Source>Fonts\GameFont.spritefont</Source>
@@ -854,7 +854,7 @@
       <Processor>FontDescriptionProcessor</Processor>
       <Options>None</Options>
       <Output>C:\Users\Ambrose Emmett\Documents\GitHub\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Release\Content\Fonts\GameFont.xnb</Output>
-      <Time>2019-06-12T14:32:19.122391-04:00</Time>
+      <Time>2019-08-13T16:01:55.03091-04:00</Time>
     </Item>
     <Item>
       <Source>Fonts\StrangeFont.spritefont</Source>
@@ -863,7 +863,7 @@
       <Processor>FontDescriptionProcessor</Processor>
       <Options>None</Options>
       <Output>C:\Users\Ambrose Emmett\Documents\GitHub\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Release\Content\Fonts\StrangeFont.xnb</Output>
-      <Time>2019-06-12T14:32:19.2474149-04:00</Time>
+      <Time>2019-08-13T16:01:55.03091-04:00</Time>
     </Item>
     <Item>
       <Source>Panel\PanelFont.spritefont</Source>
@@ -872,7 +872,7 @@
       <Processor>FontDescriptionProcessor</Processor>
       <Options>None</Options>
       <Output>C:\Users\Ambrose Emmett\Documents\GitHub\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Release\Content\Panel\PanelFont.xnb</Output>
-      <Time>2019-06-12T14:33:04.1336258-04:00</Time>
+      <Time>2019-08-13T16:01:55.0459221-04:00</Time>
     </Item>
     <Item>
       <Source>Audio\CardSet.wav</Source>
@@ -881,7 +881,7 @@
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
       <Output>C:\Users\Ambrose Emmett\Documents\GitHub\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Release\Content\Audio\CardSet.xnb</Output>
-      <Time>2019-06-12T14:34:36.8325885-04:00</Time>
+      <Time>2019-08-13T16:01:54.9830666-04:00</Time>
     </Item>
     <Item>
       <Source>Audio\CardShuffle.wav</Source>
@@ -890,7 +890,7 @@
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
       <Output>C:\Users\Ambrose Emmett\Documents\GitHub\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Release\Content\Audio\CardShuffle.xnb</Output>
-      <Time>2019-06-12T14:34:36.8481425-04:00</Time>
+      <Time>2019-08-13T16:01:54.9851032-04:00</Time>
     </Item>
     <Item>
       <Source>Audio\DrawCard.wav</Source>
@@ -899,7 +899,7 @@
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
       <Output>C:\Users\Ambrose Emmett\Documents\GitHub\StrangeSuits\StrangeSuits\StrangeSuits\bin\x86\Release\Content\Audio\DrawCard.xnb</Output>
-      <Time>2019-06-12T14:34:36.8950189-04:00</Time>
+      <Time>2019-08-13T16:01:54.9851032-04:00</Time>
     </Item>
     <BuildSuccessful>true</BuildSuccessful>
     <Settings>
@@ -916,31 +916,31 @@
     <Assemblies>
       <Assembly>
         <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
-        <Value>2011-09-01T17:22:30-04:00</Value>
+        <Value>2011-09-01T16:22:30-04:00</Value>
       </Assembly>
       <Assembly>
         <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
-        <Value>2011-09-01T17:22:30-04:00</Value>
+        <Value>2011-09-01T16:22:30-04:00</Value>
       </Assembly>
       <Assembly>
         <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
-        <Value>2011-09-01T17:22:30-04:00</Value>
+        <Value>2011-09-01T16:22:30-04:00</Value>
       </Assembly>
       <Assembly>
         <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
-        <Value>2011-09-01T17:22:30-04:00</Value>
+        <Value>2011-09-01T16:22:30-04:00</Value>
       </Assembly>
       <Assembly>
         <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
-        <Value>2011-09-01T17:22:30-04:00</Value>
+        <Value>2011-09-01T16:22:30-04:00</Value>
       </Assembly>
       <Assembly>
         <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
-        <Value>2011-09-01T17:22:30-04:00</Value>
+        <Value>2011-09-01T16:22:30-04:00</Value>
       </Assembly>
       <Assembly>
-        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
-        <Value>2016-12-14T17:29:44.6347419-05:00</Value>
+        <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2020-02-05T17:47:40.3310138-05:00</Value>
       </Assembly>
     </Assemblies>
   </Asset>
